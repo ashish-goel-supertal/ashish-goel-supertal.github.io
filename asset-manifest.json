@@ -1,22 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.80530225.css",
-    "main.js": "/static/js/main.fa2a4b33.js",
-    "static/js/498.b1acc6ae.chunk.js": "/static/js/498.b1acc6ae.chunk.js",
-    "static/js/703.eaf89838.chunk.js": "/static/js/703.eaf89838.chunk.js",
-    "static/js/168.c15f1b29.chunk.js": "/static/js/168.c15f1b29.chunk.js",
+    "main.css": "/static/css/main.569c45ce.css",
+    "main.js": "/static/js/main.bd7ba891.js",
     "static/js/787.279fe1f1.chunk.js": "/static/js/787.279fe1f1.chunk.js",
     "static/media/supertal_logo.png": "/static/media/supertal_logo.c26e4e2b3b63ce285b7c.png",
     "index.html": "/index.html",
-    "main.80530225.css.map": "/static/css/main.80530225.css.map",
-    "main.fa2a4b33.js.map": "/static/js/main.fa2a4b33.js.map",
-    "498.b1acc6ae.chunk.js.map": "/static/js/498.b1acc6ae.chunk.js.map",
-    "703.eaf89838.chunk.js.map": "/static/js/703.eaf89838.chunk.js.map",
-    "168.c15f1b29.chunk.js.map": "/static/js/168.c15f1b29.chunk.js.map",
+    "main.569c45ce.css.map": "/static/css/main.569c45ce.css.map",
+    "main.bd7ba891.js.map": "/static/js/main.bd7ba891.js.map",
     "787.279fe1f1.chunk.js.map": "/static/js/787.279fe1f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80530225.css",
-    "static/js/main.fa2a4b33.js"
+    "static/css/main.569c45ce.css",
+    "static/js/main.bd7ba891.js"
   ]
 }
